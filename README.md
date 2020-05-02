@@ -1,16 +1,16 @@
 # FSO-Tools
 
-$apt update && apt upgrade
+$ apt update && apt upgrade
 
-$pkg install python
+$ pkg install python
 
-$python2 vim figlet curl
+$ python2 vim figlet curl
 
-$pkg install php
+$ pkg install php
 
-$pip2 install lolcat
+$ pip2 install lolcat
 
-$pkg install git
+$ pkg install git
 
 git clone https://github.com/FSOCIETY-coder-dz/FSO-Tools.git
 
