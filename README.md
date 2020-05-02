@@ -1,4 +1,4 @@
-# C.L.A.Y.1
+# FSO-Tools
 
 $apt update && apt upgrade
 
@@ -12,10 +12,10 @@ $pip2 install lolcat
 
 $pkg install git
 
-git clone https://github.com/FSOCIETY-coder-dz/C.L.A.Y.1.git
+git clone https://github.com/FSOCIETY-coder-dz/FSO-Tools.git
 
-cd C.L.A.Y.1
+cd FSO-Tools
 
-chmod +x fr13nds.sh
+chmod 777 fsociety.sh
 
-sh fr13nds.sh
+sh fsociety.sh
