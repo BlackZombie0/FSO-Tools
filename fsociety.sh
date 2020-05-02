@@ -26,18 +26,37 @@ figlet T-INSTALLER  | lolcat
 
 
 echo  "       +=======================================+" |lolcat
-echo  "       |..........Tool friends v1.0 ...........|" |lolcat
+echo  "       |..........Tool fsociety v1.0 ..........|" |lolcat
 echo  "       +---------------------------------------+" |lolcat
-echo  "       |#Author   :    FR13NDS.C.L.A.Y         |" |lolcat
-echo  "       |#Instagram: zodiac2372                 |" |lolcat
-echo  "       |#Github   : MoussaUfonet               |" |lolcat
-echo  "       |#YouTube  : Shadow hacker Dz           |" |lolcat
+echo  "       |#Author   : FSOCIETY - MOUSSA          |" |lolcat
+echo  "       |#Instagram: fsociety0557               |" |lolcat
+echo  "       |#Github   : FSOCIETY-coder-dz          |" |lolcat
+echo  "       |#YouTube  : FSOCIETY ARAB              |" |lolcat
 echo  "       |     SUBSCRIBE OUR YOUTUBE CHANNEL     |" |lolcat
 echo  "       |                                       |" |lolcat
 echo  "       +=======================================+" |lolcat
-echo  "       |..........Tool FR13NDS v1.0 ...........|" |lolcat
+echo  "       |..........Tool FSOCIETY v1.0 ..........|" |lolcat
 echo  "       +---------------------------------------+" |lolcat
 
+echo  "     .o oOOOOOOOo                                            OOOo" |lolcat
+echo  "   Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO"  |lolcat
+echo  "    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO" |lolcat
+echo  "    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'" |lolcat
+echo  "    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo" |lolcat
+echo  "    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO" |lolcat
+echo  "    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO" |lolcat
+echo  "   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo."|lolcat
+echo  "  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO" |lolcat
+echo  " OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO" |lolcat
+echo  " "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"" |lolcat
+echo  "    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`" |lolcat
+echo  "    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         ." |lolcat
+echo  "    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo" |lolcat
+echo  "                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':" |lolcat
+echo  "                      `$"  `OOOO' `O"Y ' `OOOO'  o             ." |lolcat
+echo  "    .                  .     OP"          : o     ." |lolcat
+echo  "                              :" |lolcat
+echo  "                              ." |lolcat
 
 sleep 1
 
