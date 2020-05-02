@@ -37,26 +37,26 @@ echo  "       |                                       |" |lolcat
 echo  "       +=======================================+" |lolcat
 echo  "       |..........Tool FSOCIETY v1.0 ..........|" |lolcat
 echo  "       +---------------------------------------+" |lolcat
+echo  "     .o oOOOOOOOo                                            OOOo    " |lolcat
+echo  "   Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO     " |lolcat
+echo  "    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO    " |lolcat
+echo  "    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'    " |lolcat
+echo  "    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo    " |lolcat
+echo  "    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO    " |lolcat
+echo  "    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO    " |lolcat
+echo  "   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.  " |lolcat
+echo  "  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO " |lolcat
+echo  " OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO  " |lolcat
+echo  " "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"  " |lolcat
+echo  "    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`    " |lolcat
+echo  "    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .     " |lolcat
+echo  "    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo              " |lolcat
+echo  "                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':                " |lolcat
+echo  "                      `$"  `OOOO' `O"Y ' `OOOO'  o             .     " |lolcat
+echo  "    .                  .     OP"          : o     .                  " |lolcat
+echo  "                              :                                      " |lolcat
+echo  "                              .                                      " |lolcat
 
-echo  "     .o oOOOOOOOo                                            OOOo" |lolcat
-echo  "   Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO"  |lolcat
-echo  "    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO" |lolcat
-echo  "    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'" |lolcat
-echo  "    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo" |lolcat
-echo  "    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO" |lolcat
-echo  "    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO" |lolcat
-echo  "   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo."|lolcat
-echo  "  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO" |lolcat
-echo  " OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO" |lolcat
-echo  " "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"" |lolcat
-echo  "    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`" |lolcat
-echo  "    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         ." |lolcat
-echo  "    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo" |lolcat
-echo  "                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':" |lolcat
-echo  "                      `$"  `OOOO' `O"Y ' `OOOO'  o             ." |lolcat
-echo  "    .                  .     OP"          : o     ." |lolcat
-echo  "                              :" |lolcat
-echo  "                              ." |lolcat
 
 sleep 1
 
