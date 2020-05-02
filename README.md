@@ -12,7 +12,7 @@ $pip2 install lolcat
 
 $pkg install git
 
-git clone https://github.com/MoussaUfonet/C.L.A.Y.1.git
+git clone https://github.com/FSOCIETY-coder-dz/C.L.A.Y.1.git
 
 cd C.L.A.Y.1
 
